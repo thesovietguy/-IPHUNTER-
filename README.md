@@ -31,5 +31,7 @@ echo ========================================
 
 pause >nul
 
+BUT GIVE ME SOME FKN RESPEKT YA NOOB!
+
 
 
